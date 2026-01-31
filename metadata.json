@@ -1,0 +1,8 @@
+
+{
+  "name": "Mezban Food Cafe (MFC) - The Ultimate Chicken Alternative",
+  "description": "Mezban Food Cafe (MFC) is a high-performance fast-food platform featuring AI-powered menu management and exclusive crispy deals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
